@@ -16,7 +16,7 @@ import UIKit
 public protocol TimedPieViewDelegate: class {
     /// Calls each time the progress changes automatically by the timer.
     ///
-    /// - Note: This method can cause a huge impact on performance. The called is responsible for preventing it from executing heavy  instructions.
+    /// - Note: This method can cause a huge impact on performance. The called is responsible for preventing it from executing heavy instructions.
     /// - Parameters:
     ///   - pie: The pie for this delegate.
     ///   - remainingTime: The remaining time of the timer.
