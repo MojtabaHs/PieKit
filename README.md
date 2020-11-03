@@ -18,7 +18,13 @@ You can use the Swift package manager to install `PieKit`.
 ## Usage
 <b>`PieKit`is FREE and open-source for individuals, and will remain that way forever.</b>
 
-Just set the duration and it will animate the progress down to 0.
+You can easily set the color and progress:
+```
+pieView.fillColor = .red
+pieView.progress = 0.3
+```
+
+And just set the duration (for timedPie) and it will animate the progress down to 0.
 
 ```
 timedPieView.duration = 3
