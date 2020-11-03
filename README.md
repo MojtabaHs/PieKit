@@ -1,6 +1,6 @@
 # PieView
 
-A simple PieView that can show all slices of a Pie  😊. Also,
+A simple Pie view that can show all slices of a Pie  😊. Also,
 
 # It can be animated!
 
